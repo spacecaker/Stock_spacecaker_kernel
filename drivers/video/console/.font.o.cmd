@@ -1,0 +1,1 @@
+cmd_drivers/video/console/font.o := /home/spacecaker/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/video/console/font.o drivers/video/console/fonts.o drivers/video/console/font_8x8.o drivers/video/console/font_8x16.o 

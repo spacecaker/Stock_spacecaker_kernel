@@ -1,0 +1,1 @@
+cmd_drivers/media/IR/keymaps/built-in.o :=  rm -f drivers/media/IR/keymaps/built-in.o; /home/spacecaker/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ar rcs drivers/media/IR/keymaps/built-in.o

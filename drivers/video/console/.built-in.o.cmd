@@ -1,0 +1,1 @@
+cmd_drivers/video/console/built-in.o :=  /home/spacecaker/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/video/console/built-in.o drivers/video/console/dummycon.o drivers/video/console/fbcon.o drivers/video/console/bitblit.o drivers/video/console/font.o drivers/video/console/softcursor.o 

@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  /home/spacecaker/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/serial/built-in.o drivers/serial/serial_core.o drivers/serial/msm_serial.o drivers/serial/msm_serial_hs.o 
